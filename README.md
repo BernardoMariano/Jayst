@@ -1,7 +1,7 @@
 Jayst
 =====
 
-Jayst is a Javascript Test Suite, made to be an, as simple as possible, way to test your codes.
+Jayst is a Javascript Test Suite, made to be a, as simple as possible, way to test your codes.
 Output in console.
 
 Initial usage
